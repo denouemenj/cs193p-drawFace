@@ -2,4 +2,100 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "faceit/faceview.swift"
+            timestampString = "522440975.75161"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "draw(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "faceit/faceview.swift"
+            timestampString = "522440975.75161"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "faceview"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "faceit.faceview.scale.getter : CoreGraphics.CGFloat"
+                  moduleName = "faceit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayuli/work/cs193p/faceit/faceit/faceview.swift"
+                  timestampString = "522440976.826848"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "faceit.faceview.scale.setter : CoreGraphics.CGFloat"
+                  moduleName = "faceit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayuli/work/cs193p/faceit/faceit/faceview.swift"
+                  timestampString = "522440976.829176"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "faceit.faceview.init (frame : __C.CGRect) -&gt; faceit.faceview"
+                  moduleName = "faceit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayuli/work/cs193p/faceit/faceit/faceview.swift"
+                  timestampString = "522440976.831144"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "faceit.faceview.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;faceit.faceview&gt;"
+                  moduleName = "faceit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jiayuli/work/cs193p/faceit/faceit/faceview.swift"
+                  timestampString = "522440976.833066"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

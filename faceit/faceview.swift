@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FaceView: UIView
+class faceview: UIView
 {
     var scale: CGFloat = 0.90
     var mouthCurvature: Double = 1.0 // 1 full smile, -1 full frown
@@ -39,7 +39,7 @@ class FaceView: UIView
             arcCenter: midPoint,
             radius: radius,
             startAngle: 0.0,
-            endAngle: CGFloat(2*M_PI),
+            endAngle: CGFloat(2*CGFloat.pi),
             clockwise: false
         )
         path.lineWidth = 5.0
@@ -86,7 +86,7 @@ class FaceView: UIView
         
         return path
     }
-    
+
     override func draw(_ rect: CGRect)
     {
         UIColor.purple.set()
